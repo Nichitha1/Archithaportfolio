@@ -38,7 +38,7 @@ export interface CertificationItem {
   focus: string;
 }
 
-export const RESUME_PDF_PATH = '/assets/aistudio/Architha_Dameruppula_Resume__1__33420739.pdf';
+export const RESUME_PDF_PATH = './assets/aistudio/Architha_Dameruppula_Resume__1__33420739.pdf';
 
 export const PROFILE = {
   name: 'Architha Dameruppula',
